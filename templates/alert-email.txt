@@ -1,0 +1,8 @@
+Subject: {{subject}}
+
+Dear {{name}},
+
+We have an urgent need for {{need}} in {{city}}. If you are available, please contact {{contact}} as soon as possible.
+
+Thank you,
+{{hospital}}
